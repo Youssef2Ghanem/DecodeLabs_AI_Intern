@@ -1,4 +1,4 @@
-print("Program Started .......")
+print("Program Started ...")
 questions = {
     "hello": "Hi there!",
     "bye": "Goodbye!",
